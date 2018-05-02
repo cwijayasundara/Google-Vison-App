@@ -1,0 +1,12 @@
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+/out
+
+react app-c0d848b34b6b.json
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
